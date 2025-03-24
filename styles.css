@@ -1,0 +1,33 @@
+button.nav-link.active {
+    background-color: transparent !important;
+    border: 1px solid #0d6efda0 !important;
+    color: #0d6efd !important;
+}
+
+button.nav-link {
+    border: 1px solid transparent;
+    color: #6c757d;
+}
+
+button.nav-link:hover {
+    color: #adb5bd;
+}
+
+button.nav-link:active {
+    color: #074199;
+}
+
+span.btn.btn-primary {
+    background-color: #0d6efd10;
+    color: #0d6efd;
+}
+
+a.dropdown-toggle {
+    border: 1px solid #adb5bda0;
+    background-color: #adb5bd10;
+    color: #adb5bda0;
+}
+
+div.bg-primary {
+    background-color: #0d6efd4a !important;
+}
